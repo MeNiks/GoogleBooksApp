@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleBooksApp</string>
+    <string name="get">Get</string>
+    <string name="this_is_the_description">This is the description</string>
+    <string name="book">Book</string>
+    <string name="sample">Sample</string>
+</resources>
