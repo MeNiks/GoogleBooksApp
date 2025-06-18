@@ -4,4 +4,6 @@
     <string name="this_is_the_description">This is the description</string>
     <string name="book">Book</string>
     <string name="sample">Sample</string>
+    <string name="compose">Compose</string>
+    <string name="xml_data_binding">XML + Data Binding</string>
 </resources>
